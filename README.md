@@ -1,4 +1,4 @@
-# 🧮 Matematik Öğreniyorum 
+# 🧮 Matematik Öğreniyorum 🎈
 
 ![Logo](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/ikon.png)
 
