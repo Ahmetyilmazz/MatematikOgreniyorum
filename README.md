@@ -44,11 +44,11 @@ Bu proje geliştirilirken aşağıdaki araçlar ve teknolojiler kullanılmışt�
 
 ---
 
-## 📥 İndirin ve Deneyin
+## 📥 Hemen İndir ve Başla!
 
-Uygulamayı Google Play Store üzerinden hemen indirebilirsiniz:
+Hemen **Learn English**'i indir, İngilizce öğrenme yolculuğuna bugün başla!
 
-[![Google Play'den indir](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)]([https://play.google.com/store/apps/details?id=app.ahmetylmzzz.matematik])
+[![Google Play'den İndir](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.matematik)
 
 ---
 
