@@ -19,8 +19,8 @@ Uygulama, her seviyeden öğrenciye hitap eden dinamik bir yapıya sahiptir:
 
 ## 📸 Uygulama İçi Görseller
 
-| Ana Ekran | İşlem Sayfası | Rozetler ve Başarılar |
-| :---: | :---: | :---: |
+| Ana Ekran | İşlem Sayfası | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Ekran Görüntüsü 1](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/onboardings.png) | ![Ekran Görüntüsü 2](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/home_and_levelSection_screens.png) | ![Ekran Görüntüsü 3](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/learn_screen.png) | ![Ekran Görüntüsü 4](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/question_screen.png) | ![Ekran Görüntüsü 5](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/true_or_wrong.png) | ![Ekran Görüntüsü 6](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/score_screen.png) | ![Ekran Görüntüsü 7](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/help_screen.png) | ![Ekran Görüntüsü 8](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/ayarlar_screen.png) 
 
 ---
