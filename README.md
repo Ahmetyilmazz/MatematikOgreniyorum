@@ -17,36 +17,62 @@ Uygulama, her seviyeden öğrenciye hitap eden dinamik bir yapıya sahiptir:
 
 ---
 
-## 📸 Uygulama İçi Görseller
+## 📸 Uygulama Ekranları (Arayüz Turu)
 
-| Ana Ekran | İşlem Sayfası | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar | Rozetler ve Başarılar
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Ekran Görüntüsü 1](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/onboardings.png) | ![Ekran Görüntüsü 2](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/home_and_levelSection_screens.png) | ![Ekran Görüntüsü 3](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/learn_screen.png) | ![Ekran Görüntüsü 4](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/question_screen.png) | ![Ekran Görüntüsü 5](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/true_or_wrong.png) | ![Ekran Görüntüsü 6](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/score_screen.png) | ![Ekran Görüntüsü 7](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/help_screen.png) | ![Ekran Görüntüsü 8](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/ayarlar_screen.png) 
+Uygulamanın kullanıcı dostu ve göz yormayan arayüzüne göz atın:
+
+### 🌟 Başlangıç ve Navigasyon
+| Hoş Geldin (Onboarding) | Ana Menü & Seviyeler | Ayarlar Menüsü |
+| :---: | :---: | :---: |
+| ![Onboarding Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/onboardings.png) | ![Home & Level Section](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/home_and_levelSection_screens.png) | ![Settings Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/ayarlar_screen.png) |
+
+### 📖 Öğrenme ve Uygulama
+| Öğrenme Alanı (Learn) | Soru Ekranı (Question) | Yardım & İpuçları |
+| :---: | :---: | :---: |
+| ![Learn Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/learn_screen.png) | ![Question Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/question_screen.png) | ![Help Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/help_screen.png) |
+
+### 🏆 Sonuç ve Başarı
+| Doğru/Yanlış Analizi | Skor ve Rozet Paneli |
+| :---: | :---: |
+| ![True/Wrong Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/true_or_wrong.png) | ![Score Screen](https://github.com/Ahmetyilmazz/MatematikOgreniyorum/blob/7876811c3e4562f3fe6f03ab5fe3f2f42da89a59/images/score_screen.png) |
 
 ---
+
+---
+
+## 🎯 Öne Çıkan Özellikler
+
+* **🧮 Kademeli Zorluk:** Seviye 1'den Seviye 5'e kadar (1 basamaklıdan 5 basamaklıya kadar işlemler).
+* **⭐ Panda Rozet Sistemi:** Toplanan puanlarla Bronz, Gümüş ve Altın rozetleri kazanın.
+* **🎧 Seslendirmeli Deneyim:** Sayıları ve işlemleri işitsel olarak dinleme desteği.
+* **📊 Gelişim Takibi:** Toplam puan, doğru/yanlış sayısı ve detaylı istatistikler.
+
+---
+
+## 👨‍👩‍👧 Kimler İçin?
+- Temel matematik pratiği yapmak isteyen öğrenciler.
+- Matematiğe yeni başlayanlar ve hobi olarak geliştirmek isteyenler.
+- Ailesiyle eğitici vakit geçirmek isteyen çocuklar.
+
+---
+
 
 ## 🛠 Kullanılan Teknolojiler
 
 Bu proje geliştirilirken aşağıdaki araçlar ve teknolojiler kullanılmıştır:
 
-* **Dil:** [Dart]
-* **Framework:** [Flutter ]
-* **State Management:** [Provider]
-* **Yerel Veri:** [SharedPreferences / SQLite]
+* **Dil:** Dart
+* **Framework:** Flutter
+* **State Management:** Provider
+* **Yerel Veri:** SharedPreferences / SQLite
 
 ---
 
-## 🎯 Hedef Kitle
 
-- ✅ Matematiğe yeni başlayan öğrenciler.
-- ✅ Temel işlem becerilerini hızlandırmak isteyenler.
-- ✅ Çocukları için güvenli ve eğitici içerik arayan ebeveynler.
-
----
 
 ## 📥 Hemen İndir ve Başla!
 
-Hemen **Learn English**'i indir, İngilizce öğrenme yolculuğuna bugün başla!
+Uygulamayı Google Play üzerinden hemen deneyimleyebilirsiniz:
 
 [![Google Play'den İndir](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.matematik)
 
